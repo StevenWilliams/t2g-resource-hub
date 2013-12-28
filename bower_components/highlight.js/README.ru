@@ -1,4 +1,11 @@
-<!DOCTYPE html><html><head><title>T2G Resource Hub</title><link href="/main.css" type="text/css" rel="stylesheet"><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1"><meta description="T2G Resource Hub is a part of the Teen2Geek initiative, and provides beginners with resources to learn development and design."><script src="/bower_components/jquery/jquery.min.js"></script><script src="http://yandex.st/highlightjs/7.5/highlight.min.js"></script><script src="/main.js"></script></head><body><header><h1>T2G Resource Hub</h1><nav><a href="/">Home</a><a href="/about">About</a><a href="/contact">Contact</a></nav></header><h1>Highlight.js</h1>
+<!DOCTYPE html><html><head><title>T2G Resource Hub</title><link href="/main.css" type="text/css" rel="stylesheet"><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1"><meta description="T2G Resource Hub is a part of the Teen2Geek initiative, and provides beginners with resources to learn development and design."><script src="/bower_components/jquery/jquery.min.js"></script><script src="http://yandex.st/highlightjs/7.5/highlight.min.js"></script><script src="/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-46643485-1', 'teen2geek.com');
+ga('send', 'pageview');
+</script></head><body><header><h1>T2G Resource Hub</h1><nav><a href="/">Home</a><a href="/about">About</a><a href="/contact">Contact</a></nav></header><h1>Highlight.js</h1>
 <p>Highlight.js нужен для подсветки синтаксиса в примерах кода в блогах,
 форумах и вообще на любых веб-страницах. Пользоваться им очень просто,
 потому что работает он автоматически: сам находит блоки кода, сам
@@ -89,7 +96,7 @@ highlight.js.</p>
 <ul>
 <li>Версия: 7.3</li>
 <li>URL:    <a href="http://softwaremaniacs.org/soft/highlight/">http://softwaremaniacs.org/soft/highlight/</a></li>
-<li>Автор:  Иван Сагалаев (<a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#x6d;&#x61;&#x6e;&#105;&#x61;&#x63;&#64;&#115;&#x6f;&#102;&#x74;&#119;&#97;&#x72;&#x65;&#x6d;&#x61;&#x6e;&#105;&#x61;&#x63;&#115;&#x2e;&#111;&#x72;&#103;">&#x6d;&#x61;&#x6e;&#105;&#x61;&#x63;&#64;&#115;&#x6f;&#102;&#x74;&#119;&#97;&#x72;&#x65;&#x6d;&#x61;&#x6e;&#105;&#x61;&#x63;&#115;&#x2e;&#111;&#x72;&#103;</a>)</li>
+<li>Автор:  Иван Сагалаев (<a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x6d;&#97;&#110;&#x69;&#x61;&#x63;&#64;&#x73;&#111;&#x66;&#x74;&#119;&#97;&#x72;&#101;&#x6d;&#x61;&#110;&#x69;&#x61;&#99;&#115;&#46;&#x6f;&#114;&#x67;">&#x6d;&#97;&#110;&#x69;&#x61;&#x63;&#64;&#x73;&#111;&#x66;&#x74;&#119;&#97;&#x72;&#101;&#x6d;&#x61;&#110;&#x69;&#x61;&#99;&#115;&#46;&#x6f;&#114;&#x67;</a>)</li>
 </ul>
 <p>Лицензионное соглашение читайте в файле LICENSE.
 Список соавторов читайте в файле AUTHORS.ru.txt</p>

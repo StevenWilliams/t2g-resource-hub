@@ -1,4 +1,11 @@
-<!DOCTYPE html><html><head><title>T2G Resource Hub</title><link href="/main.css" type="text/css" rel="stylesheet"><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1"><meta description="T2G Resource Hub is a part of the Teen2Geek initiative, and provides beginners with resources to learn development and design."><script src="/bower_components/jquery/jquery.min.js"></script><script src="http://yandex.st/highlightjs/7.5/highlight.min.js"></script><script src="/main.js"></script></head><body><header><h1>T2G Resource Hub</h1><nav><a href="/">Home</a><a href="/about">About</a><a href="/contact">Contact</a></nav></header><h1>Highlight.js</h1>
+<!DOCTYPE html><html><head><title>T2G Resource Hub</title><link href="/main.css" type="text/css" rel="stylesheet"><meta charset="UTF-8"><meta name="viewport" content="initial-scale=1"><meta description="T2G Resource Hub is a part of the Teen2Geek initiative, and provides beginners with resources to learn development and design."><script src="/bower_components/jquery/jquery.min.js"></script><script src="http://yandex.st/highlightjs/7.5/highlight.min.js"></script><script src="/main.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-46643485-1', 'teen2geek.com');
+ga('send', 'pageview');
+</script></head><body><header><h1>T2G Resource Hub</h1><nav><a href="/">Home</a><a href="/about">About</a><a href="/contact">Contact</a></nav></header><h1>Highlight.js</h1>
 <p>Highlight.js highlights syntax in code examples on blogs, forums and,
 in fact, on any web page. It&#39;s very easy to use because it works
 automatically: finds blocks of code, detects a language, highlights it.</p>
@@ -85,7 +92,7 @@ on a site.</p>
 <ul>
 <li>Version: 7.3</li>
 <li>URL:     <a href="http://softwaremaniacs.org/soft/highlight/en/">http://softwaremaniacs.org/soft/highlight/en/</a></li>
-<li>Author:  Ivan Sagalaev (<a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#x6d;&#97;&#x6e;&#x69;&#x61;&#99;&#x40;&#x73;&#111;&#102;&#116;&#119;&#97;&#114;&#x65;&#x6d;&#97;&#x6e;&#x69;&#97;&#99;&#115;&#x2e;&#111;&#114;&#x67;">&#x6d;&#97;&#x6e;&#x69;&#x61;&#99;&#x40;&#x73;&#111;&#102;&#116;&#119;&#97;&#114;&#x65;&#x6d;&#97;&#x6e;&#x69;&#97;&#99;&#115;&#x2e;&#111;&#114;&#x67;</a>)</li>
+<li>Author:  Ivan Sagalaev (<a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#109;&#x61;&#x6e;&#x69;&#x61;&#x63;&#64;&#x73;&#x6f;&#x66;&#x74;&#x77;&#x61;&#x72;&#101;&#109;&#x61;&#110;&#105;&#97;&#99;&#115;&#x2e;&#x6f;&#114;&#103;">&#109;&#x61;&#x6e;&#x69;&#x61;&#x63;&#64;&#x73;&#x6f;&#x66;&#x74;&#x77;&#x61;&#x72;&#101;&#109;&#x61;&#110;&#105;&#97;&#99;&#115;&#x2e;&#x6f;&#114;&#103;</a>)</li>
 </ul>
 <p>For the license terms see LICENSE files.
 For the list of contributors see AUTHORS.en.txt file.</p>
