@@ -6,7 +6,15 @@ This is a repository of various learning resources that the teen development com
 
 ### Add to the list(s)
 
-Adding to this list is currently done via pull request. To do so, simply modify the ```_harp/_data.json``` file's relevant section in a new branch.
+Adding to this list is currently done via pull request. To do so, simply modify the ```_harp/_data.json``` file's relevant section in a new branch. For example, to add a paid resource, simply add the following to the relevant section:
+
+```json
+"nameOfResource": {
+  "name": "New Resource - What Resource Is",
+  "url": "http://path/to/new/resource",
+  "paid": true
+}
+```
 
 ### Contribute to development
 
