@@ -17,6 +17,10 @@
 					"name": "Learn how to make advanced web applications with JavaScript",
 					"url": "http://www.codecademy.com/tracks/javascript"
 				},
+				"dash": {
+           			"name": "Learn to build websites with Dash",
+          			"url": "dash.generalassemb.ly"
+          		},
 				"assignmentOne": {
 					"name": "Assignment One: Design a Website",
 					"url": "http://hub.teen2geek.com/assignments/one",
