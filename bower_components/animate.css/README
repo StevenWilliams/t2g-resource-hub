@@ -42,4 +42,4 @@ $ sudo npm install</code></pre>
 <p>Animate.css is licensed under the MIT license. (<a href="http://opensource.org/licenses/MIT">http://opensource.org/licenses/MIT</a>)</p>
 <h2>Contributing</h2>
 <p>Pull requests are the way to go here. I apologise in advance for the slow action on pull requests and issues. I only have two rules for submitting a pull request: match the naming convention (camelCase, categorised [fades, bounces, etc]) and let us see a demo of submitted animations in a <a href="http://codepen.io">pen</a>. That last one is important.</p>
-<footer><p>&copy; 2013 Classify Studios. All Rights Reserved. Made with <a href='http://harpjs.com'>Harp</a></p></footer></body></html>
+<footer><p>&copy; 2013 Classify Studios. <a href='http://github.com/krrishd/t2g-resource-hub'><i class='fa fa-github'></i>Fork us on Github</a> </p></footer></body></html>

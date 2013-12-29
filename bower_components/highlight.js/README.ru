@@ -96,8 +96,8 @@ highlight.js.</p>
 <ul>
 <li>Версия: 7.3</li>
 <li>URL:    <a href="http://softwaremaniacs.org/soft/highlight/">http://softwaremaniacs.org/soft/highlight/</a></li>
-<li>Автор:  Иван Сагалаев (<a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x6d;&#97;&#x6e;&#x69;&#97;&#99;&#x40;&#x73;&#111;&#x66;&#x74;&#119;&#x61;&#114;&#x65;&#109;&#x61;&#110;&#105;&#97;&#x63;&#115;&#x2e;&#x6f;&#x72;&#x67;">&#x6d;&#97;&#x6e;&#x69;&#97;&#99;&#x40;&#x73;&#111;&#x66;&#x74;&#119;&#x61;&#114;&#x65;&#109;&#x61;&#110;&#105;&#97;&#x63;&#115;&#x2e;&#x6f;&#x72;&#x67;</a>)</li>
+<li>Автор:  Иван Сагалаев (<a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#109;&#x61;&#x6e;&#x69;&#x61;&#99;&#x40;&#x73;&#111;&#x66;&#116;&#119;&#97;&#114;&#101;&#109;&#x61;&#x6e;&#x69;&#x61;&#99;&#x73;&#46;&#x6f;&#114;&#103;">&#109;&#x61;&#x6e;&#x69;&#x61;&#99;&#x40;&#x73;&#111;&#x66;&#116;&#119;&#97;&#114;&#101;&#109;&#x61;&#x6e;&#x69;&#x61;&#99;&#x73;&#46;&#x6f;&#114;&#103;</a>)</li>
 </ul>
 <p>Лицензионное соглашение читайте в файле LICENSE.
 Список соавторов читайте в файле AUTHORS.ru.txt</p>
-<footer><p>&copy; 2013 Classify Studios. All Rights Reserved. Made with <a href='http://harpjs.com'>Harp</a></p></footer></body></html>
+<footer><p>&copy; 2013 Classify Studios. <a href='http://github.com/krrishd/t2g-resource-hub'><i class='fa fa-github'></i>Fork us on Github</a> </p></footer></body></html>
