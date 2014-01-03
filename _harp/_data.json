@@ -53,9 +53,17 @@
 					"name": "Typographic Style Applied to the Web",
 					"url": "http://webtypography.net/"
 				},
+				"pocketTypography": {
+					"name": "A Pocket Guide to Typography",
+					"url": "http://www.typogui.de/"
+				},
 				"forPerformance": {
 					"name": "Designing for Performance",
 					"url": "http://webdesign.tutsplus.com/articles/user-experience-articles/designing-for-performance/"
+				},
+				"hackDesign": {
+					"name": "Hack Design",
+					"url": "http://hackdesign.org/"
 				},
 				"uiEbook": {
 					"name": "Read this book - Step by Step UI Design",
